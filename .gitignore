@@ -1,4 +1,9 @@
 # Ignore sample files
 *.zip
 *.csv
-*.sql
+
+# System file
+.DS_Store
+
+# Project files
+sample_data
